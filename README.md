@@ -1,2 +1,5 @@
 # Java-Journey
-- Comment this thing i guess
+- Cmd usage is compulsary to learn to get any language.
+```bash
+  DIR - Directory
+```
