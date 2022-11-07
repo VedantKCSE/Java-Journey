@@ -15,6 +15,8 @@ public class OddEven{
 }
 public static void main(String[] args){
   OddEven o = new OddEven();
-  o.checkEven(10);
+  // invoking the method
+  boolean result = o.checkEven(10);
+  System.out.println(result);
 }
 ```
